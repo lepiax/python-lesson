@@ -6,12 +6,15 @@ def saat():
     return datetime.datetime.now().hour
 
 
+def isimData():
+    return input("İsminiz nedir: ")
+
 
 def selamlama():
     if (saat() < 12):
-        return "Günaydın"
+        return "Günaydın " + isimData()
     else:
-        return "İyi akşamlar"
+        return "İyi akşamlar " + isimData()
 
 
 print(selamlama())
