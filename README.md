@@ -1,2 +1,2 @@
-# python-lesson
-udemy dersinde gordugum ornekleri buraya atiyor olacagim
+# Python Örnekleri
+Udemy kursunda gördüğüm örnekleri buraya ekliyor olacağım. Yeni başlayanlar için oldukça yararlı örnekler bulunmakta.
