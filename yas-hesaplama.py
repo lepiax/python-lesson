@@ -8,10 +8,10 @@ def dogumTarihiniz():
 
 
 def yasHesapla():
-    return {simdikiZaman() - dogumTarihiniz()}
+    return simdikiZaman() - dogumTarihiniz()
 
 def sonucYasHesaplama():
     return yasHesapla()
 
 
-print(sonucYasHesaplama())
+print(sonucYasHesaplama(),"yaşındasınız.")
